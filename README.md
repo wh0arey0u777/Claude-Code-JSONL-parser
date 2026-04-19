@@ -21,8 +21,8 @@ This project requires Python 3.8+ and two primary libraries: `pandas` for data h
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url]
-    cd logstream-parser
+    git clone [[your-repo-url]](https://github.com/wh0arey0u777/Claude-Code-JSONL-parser.git)
+    cd Claude-Code-JSONL-parser
     ```
 
 2.  **Install Dependencies:**
@@ -36,4 +36,4 @@ The script is run from your terminal, providing the source log file and the desi
 
 ### Basic Command Structure
 ```bash
-python jsonl_to_excel.py <SOURCE_JSONL_PATH> <OUTPUT_DIRECTORY> [OPTIONS]
+python jsonl_to_excel.py <SOURCE_JSONL_PATH> <OUTPUT_DIRECTORY> 
