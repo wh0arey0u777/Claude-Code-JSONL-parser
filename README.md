@@ -76,4 +76,4 @@ We welcome contributions! If you find a new field that needs parsing or improve 
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
