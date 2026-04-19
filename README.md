@@ -4,16 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![CLI Tool](https://img.shields.io/badge/Type-CLI%20Tool-brightgreen.svg)]()
 
-LogStream Parser is a powerful command-line utility designed to streamline the process of transforming complex, multi-field JSON Lines (JSONL) log files into clean, structured Excel spreadsheets (`.xlsx`).
+This Parser is a command-line utility designed to streamline the process of transforming Claude Code multi-field JSON Lines (JSONL) log files into clean, structured Excel spreadsheets (`.xlsx`).
 
-If you spend time analyzing logs but struggle with nested data and manual parsing, this tool handles the heavy lifting for you. It ensures that critical pieces of information are extracted and presented in a readable table format.
-
-## ✨ Features
-*   **Structured Extraction**: Targets specific fields (e.g., `timestamp`, `userType`, `parentUuid`) regardless of where they appear in the JSON structure.
-*   **Nested Data Handling**: Safely extracts and serializes content from nested message objects (`message.*`).
-*   **CLI Driven**: Operates entirely via command line, making it easy to integrate into pipelines and automation scripts.
-*   **Robustness**: Handles missing fields gracefully using default values (empty strings) rather than failing the entire parse job.
-*   **Customization**: Supports defining custom output directories and filenames.
 
 ## ⚙️ Installation & Prerequisites
 
